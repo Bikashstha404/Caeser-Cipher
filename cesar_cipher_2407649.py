@@ -3,7 +3,7 @@ Name: Bikash Shrestha
 Student Number: 2407649
 '''
 
-#Import the os module for operating system-related tasks.
+#Import the os module for operating system-related task.
 import os
 
 def welcome():
